@@ -1,0 +1,13 @@
+﻿#main
+{
+    border:2px solid red;
+    border-radius:3px;
+    background-color:bisque;
+    padding:5px;
+    display:inline-block;
+}
+.boxes
+{
+   width:200px;
+   margin:5px;
+}
