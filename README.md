@@ -36,4 +36,4 @@ N/A
 
 * [AWS Certified Big Data Specialty 2019 - In Depth and Hands On! [Video]](https://www.packtpub.com/application-development/aws-certified-big-data-specialty-2019-depth-and-hands-video)
 
-* [Hands-On Server-Rendered React Application with Next.js [Video]] (https://www.packtpub.com/application-development/hands-server-rendered-react-application-nextjs-video)
+* [Hands-On Server-Rendered React Application with Next.js [Video]](https://www.packtpub.com/application-development/hands-server-rendered-react-application-nextjs-video)
