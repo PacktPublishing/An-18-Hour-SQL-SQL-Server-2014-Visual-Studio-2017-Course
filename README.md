@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/an-18-hour-sql-sql-server-2014-visual-studio-2017-course-video/9781789530568)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # An 18 Hour SQL/SQL Server 2014/Visual Studio 2017 Course [Video]
 This is the code repository for An 18 Hour SQL/SQL Server 2014/Visual Studio 2017 Course [Video](https://www.packtpub.com/application-development/18-hour-sqlsql-server-2014visual-studio-2017-course-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
