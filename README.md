@@ -37,7 +37,3 @@ N/A
 * [AWS Certified Big Data Specialty 2019 - In Depth and Hands On! [Video]](https://www.packtpub.com/application-development/aws-certified-big-data-specialty-2019-depth-and-hands-video)
 
 * [Hands-On Server-Rendered React Application with Next.js [Video]](https://www.packtpub.com/application-development/hands-server-rendered-react-application-nextjs-video)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781789530568">https://packt.link/free-ebook/9781789530568 </a> </p>
